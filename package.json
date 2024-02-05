@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Jaelinny/jelly-common-fun/issues"
   },
-  "homepage": "https://github.com/Jaelinny/jelly-common-fun#readme"
+  "homepage": "https://github.com/Jaelinny/jelly-common-fun#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
